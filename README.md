@@ -1,6 +1,6 @@
 <b>Image Clustering</b>
 
-In this repository I have tried clustering Fighter Jets and Passenger Planes. I have downloaded images from Kaggle. In order to achieve my goal, I used these preprocessing methods;
+In this repository I have tried clustering Fighter Jets and Passenger Planes. I have downloaded images from [Kaggle](https://www.kaggle.com/datasets/eabdul/flying-vehicles). In order to achieve my goal, I used these preprocessing methods;
 
   :heavy_check_mark: Resizing Image, <br>
   :heavy_check_mark: Clustering Without Preprocessing<br>
